@@ -5,3 +5,9 @@ Program: My Turtle Project
 '''
 from turtle import *
 import winsound
+bgcolor('#87cefa')
+pensize(1)
+pendown()
+forward(100)
+left(90)
+forward(80)
